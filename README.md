@@ -21,9 +21,9 @@ Winning is hard, and it should not be your first focus because you will put so m
 
 Jorge Ferreiro in his [post](https://www.ferreiro.me/blog/part-1-the-definitive-guide-to-making-the-most-of-college-tech-hackathons#the-3-ws) come up with a framework called _The 3ws_. Jorge suggests to make a list answering the following questions:
 
-* 📚 *What do you want to learn?* A new UI libraries (like Vue.js, React), a new programming language (JavaScript, Python, Ruby, Rust, Elixir, Go), how to use a particular API (Twilio, AWS, etc), hardware (Arduino), Virtual Reality, Voice Recognition, TensorFlow…
-* 🗣️ *What do you want to improve?* Public speaking, team leadership, communication…
-* 👋 *Who do you want to meet?* Companies to get tech internships, mentors to get coaching or help, other hackers to keep expanding your network…
+* 📚 **What do you want to learn?** A new UI libraries (like Vue.js, React), a new programming language (JavaScript, Python, Ruby, Rust, Elixir, Go), how to use a particular API (Twilio, AWS, etc), hardware (Arduino), Virtual Reality, Voice Recognition, TensorFlow…
+* 🗣️ **What do you want to improve?** Public speaking, team leadership, communication…
+* 👋 **Who do you want to meet?** Companies to get tech internships, mentors to get coaching or help, other hackers to keep expanding your network…
 
 ## The team: Go hunting and work with people that you can learn and have fun with!
 
