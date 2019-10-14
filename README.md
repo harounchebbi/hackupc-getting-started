@@ -78,7 +78,8 @@ Do not start coding right away. First think about your idea and the problem you 
 
 ## The MVCH (minimum viable crap hack): Project Scoping
 
-![https://ferreirov3.s3.eu-west-2.amazonaws.com/MVCH.jpg]()
+![alt text](https://ferreirov3.s3.eu-west-2.amazonaws.com/MVCH.jpg "Logo Title Text 1")
+
 
 ## The Social Hackathon
 
