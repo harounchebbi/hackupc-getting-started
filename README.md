@@ -64,9 +64,9 @@ We'd suggest you to start writing down ideas using a shared docs.
 
 We have an amazing team building event that always takes place in the first hours of the event. We really encourage you to attend that event for many reasons:
 
-1. 🕵️‍♀️ You can find those last folks to complete your superb team.
-2. 💡You can get inspiration from other people's ideas.
-3; 🗣You can start "networking" with other hackers.
+* 🕵️‍♀️ You can find those last folks to complete your superb team.
+* 💡You can get inspiration from other people's ideas.
+* 🗣You can start "networking" with other hackers.
 
 ## Ideas validation
 
