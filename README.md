@@ -17,7 +17,7 @@ If you have some feedback about it, either write to [jorge@ferreiro.me](jorge@fe
 
 We expect you to `have FUN`, `LEARN` something new and to `respect the rest of the hackers` using our [Code of Conduct](https://hackupc.com/code_conduct). That's all, we don't have any other expectations, each of you will have different goals during the weekend, and we love that! 😍
 
-Winning is hard, and it should not be your first focus because you will put so much pressure on yourself and your team, that it's not gonna be fun! Instead, see this hackathon as a great learning opportunity and focus on the process of building some cool rather than the prizes. HackUPC offers you an incredible opportunity for making new friends, working with other folks that can teach you things, and build a project you can brag about or use for applying to tech companies.
+We all know that winning is hard, and it should not be your first focus because you will put so much pressure on yourself and your team, that it's not gonna be fun! Instead, see this hackathon as a great learning opportunity and focus on the process of building some cool rather than the prizes. HackUPC offers you an incredible opportunity for making new friends, working with other folks that can teach you things, and build a project you can brag about or use for applying to tech companies.
 
 Jorge Ferreiro in his [post](https://www.ferreiro.me/blog/part-1-the-definitive-guide-to-making-the-most-of-college-tech-hackathons#the-3-ws) come up with a framework called _The 3ws_. Jorge suggests to make a list answering the following questions:
 
@@ -25,10 +25,36 @@ Jorge Ferreiro in his [post](https://www.ferreiro.me/blog/part-1-the-definitive-
 * 🗣️ **What do you want to improve?** Public speaking, team leadership, communication…
 * 👋 **Who do you want to meet?** Companies to get tech internships, mentors to get coaching or help, other hackers to keep expanding your network…
 
-## The team: Go hunting and work with people that you can learn and have fun with!
+## The team: Go hunting!
 
-Hacking alone is boring! In HackUPC we allow teams up to 4 people. We strongly recommend you to fill all the positions with people that can complement your skillsets. The most diverse and complete team, the better!
+Hacking alone is boring! In HackUPC we allow teams up to 4 people or work alone. We strongly recommend you to fill your team with people that complement you. The most diverse and complete team, the better! Find people that you want to work with and that you can learn and have fun with.
 
+### How to find people?
+
+*Brainstorming session:* In the first few hours of the event, we run a `Team Building` action where each of you share your ideas, and team up! This is a wonderful opportunity to connect with other hackers and break the ice. Even if you have a team an idea, just drop by and see what's going on. You can get inspiration, or even new team members.
+
+*On Slack*: Days before the hackathon we have enabled our Slack, a cool tool to chat and connect with other hackers. We strongly suggest you to use Slack days before, and start talking with people. 
+
+*On Facebook groups*: Sometimes we create Facebook groups to help people connect to each other. Feel free to drop by and say hi.
+
+### How to Introduce yourself
+
+We think is helpful if you introduce yourself: who you are, where you come from, what are your skillsets and what are you looking for. If
+
+Example 1: First time hackathon
+
+```
+Hi, I'm Arnorld! I'm from Japan, currently studing Computer Science. I've some basic knowledge on Javascript, and I've learned some Java in my college. It's my first time in a hackathon, and I'm really excited to find a great team of people to learn from, and have fun with. I'm very passionate about web development, education, and hacks with a positive impact in the world.
+
+If you wanna team up, ping me!
+```
+
+Example 2: Veteran.
+```
+Hi, I'm Laura! I'm from Spain, studying 3rd year of Data Science. I've attended 4 hackathons, and I'd like to create a project that comines machine learning with Web Development. I've worked with TensorFlow, Apache Spark, and Python. I have a solid experience on Image recognition, and I have worked previoulsy with Amazon AWS.
+
+I'd like to build an application to help blind people to move easily through the city. Feel free to reach out to me, and ask me more questions. I'm also free to change projects if something more cool showup! :)
+```
 
 ## The idea(s)
 
