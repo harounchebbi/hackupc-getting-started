@@ -97,13 +97,11 @@ In order to be successful in the first rounds, be passionate about the hack you 
 
 ## Why are there sponsors and what can I learn from them?
 
-Why are there sponsors? Sponsors allow us to make this hackathon a free event for college students. Thanks to them we can pay your travel, the yummy food, the swag, the midnight snaks... Without their money we couldn't make it possible, or we couldn't make it a free event.
+* **Why are there sponsors?** Sponsors allow us to make this hackathon a free event for college students. Thanks to them we can pay your travel, the yummy food, the swag, the midnight snaks... Without their money we couldn't make it possible, or we couldn't make it a free event.
 
-What do sponsors get in return? Different sponsors have different goals: some of them are looking to find great people to do internships or to join their companies once they finish the university. Others are looking for giving back to the students community, other wanna showcase their technologies, etc... 
+* **What do sponsors get in return?** Different sponsors have different goals: some of them are looking to find great people to do internships or to join their companies once they finish the university. Others are looking for giving back to the students community, other wanna showcase their technologies, etc... 
 
-What can you get from the sponsors? We think that sponsors can be a good source of learning as well as getting an opportunity to have a tech internship or full time job with them. Most of the sponsors run different challenges, where they give prices. This is a really awesome opportunity to work on their tools, and 
-
-
+* **What can you get from the sponsors?** We think that sponsors can be a good source of learning as well as getting an opportunity to have a tech internship or full time job with them. Most of the sponsors run different challenges, where they give prices. This is a really awesome opportunity to work on their tools, and 
 
 ## Resources and further reading
 
@@ -112,10 +110,8 @@ What can you get from the sponsors? We think that sponsors can be a good source 
 - [Part 3: The first hour, MVCH and the social hackathon](https://www.ferreiro.me/blog/part-3-tips-make-a-successful-hackathon-project?utm_source=hackupc-github)
 - [Part 4: Pitch, Judging and FollowUp](https://www.ferreiro.me/blog/part-4-pitch-hackathon-idea-and-followup)
 
-
-
 ## Credits
 
-* Written by: Jorge Ferreiro ([@jgferreiro]())
+* Written by: [Jorge Ferreiro](https://www.linkedin.com/in/jgferreiro/) ([@jgferreiro](https://twitter.com/jgFerreiro))
 * Reviewed by: 
 * Proofread by: 
