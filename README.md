@@ -1,10 +1,10 @@
-# HackUPC welcome starting kit.
+# 🐝 HackUPC welcome starting kit.
 
-Weather if you are a first time hacker or a recurrent one, we encourage to review and skim through this guideline. It will give a great perspective for getting the most out of your next hackathon!
+Weather if you are a first time hacker or a veteran, we encourage you to review this guideline. It will give you a great perspective for getting the most out of your hackathon in HackUPC!
 
 if you wanna help to extend and improve this guide, [create a pull request](https://github.com/ferreiro/hackupc-getting-started/pulls).
 
-If you have some feedback about it, either write [jorge@ferreiro.me](jorge@ferreiro.me) or [info@hackupc.com]().
+If you have some feedback about it, either write to [jorge@ferreiro.me](jorge@ferreiro.me), [miquel@hackupc.com](miquel@hackupc.com) or [info@hackupc.com](info@hackupc.com).
 
 ## Index
 
@@ -15,19 +15,26 @@ If you have some feedback about it, either write [jorge@ferreiro.me](jorge@ferre
 
 ## The mindset: What do we expect from you in this hackathon?
 
-We expect from you to have FUN, LEARN something new and to respect the rest of the hackers using our [code of conduct](). That's all, we don't have any other expectations, each of you will have different goals during the weekend, and we love that! 😍
+We expect you to have FUN, LEARN something new and to respect the rest of the hackers using our [Code of Conduct](https://hackupc.com/code_conduct). That's all, we don't have any other expectations, each of you will have different goals during the weekend, and we love that! 😍
 
-Winning is hard, and should not be your first focus because you will put so much pressure on yourself and your team, that it's not gonna be fun! Let yourself to make mistakes, learn along the way and focus on the process rather than the pricess. This hackathon offers you an incredible opportunity: Making new friends, working with other folks that can teach you things, and build something cool you can show to your fiends or when applying to companies.
+Winning is hard, and it should not be your first focus because you will put so much pressure on yourself and your team, that it's not gonna be fun! Instead, see this hackathon as a great learning opportunity and focus on the process of building some cool rather than the prizes. HackUPC offers you an incredible opportunity for making new friends, working with other folks that can teach you things, and build a project you can brag about or use for applying to tech companies.
+
+Jorge Ferreiro in his [post](https://www.ferreiro.me/blog/part-1-the-definitive-guide-to-making-the-most-of-college-tech-hackathons#the-3-ws) come up with a framework called _The 3ws_. Jorge suggests to make a list answering the following questions:
+
+* 📚 *What do you want to learn?* A new UI libraries (like Vue.js, React), a new programming language (JavaScript, Python, Ruby, Rust, Elixir, Go), how to use a particular API (Twilio, AWS, etc), hardware (Arduino), Virtual Reality, Voice Recognition, TensorFlow…
+* 🗣️ *What do you want to improve?* Public speaking, team leadership, communication…
+* 👋 *Who do you want to meet?* Companies to get tech internships, mentors to get coaching or help, other hackers to keep expanding your network…
 
 ## The team: Go hunting and work with people that you can learn and have fun with!
 
-Hacking alone is boring! In HackUPC we allow teams up to 4 people, and from our past experiences, hacking with many folks is really awesome. The most diverse and complete team, the better.
+Hacking alone is boring! In HackUPC we allow teams up to 4 people. We strongly recommend you to fill all the positions with people that can complement your skillsets. The most diverse and complete team, the better!
+
 
 ## The idea(s)
 
 Ideally you would start finding the right idea days or weeks before starting the hackathon. While this is not required, this will help you not to waste time the first hours of the hackathon figuring out what you wanna built.
 
-We'd suggest you to start writing down ideas using a shared docs. 
+We'd suggest you to start writing down ideas using a shared docs.
 
 We have an amazing team building event that always takes place in the first hours of the event. We really encourage you to attend that event for many reasons:
 
@@ -45,7 +52,7 @@ Do not start coding right away. First think about your idea and the problem you 
 
 ## The MVCH (minimum viable crap hack): Project Scoping
 
-![https://ferreirov3.s3.eu-west-2.amazonaws.com/MVCH.jpg]()
+<center><img src="https://ferreirov3.s3.eu-west-2.amazonaws.com/MVCH.jpg" alt="Minimum viable crap hack" /></center>
 
 ## The Social Hackathon
 
