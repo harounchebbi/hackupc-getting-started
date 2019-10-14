@@ -1,4 +1,4 @@
-# 🐝 HackUPC welcome starting kit.
+# 🐝 HackUPC: Getting Started Guidelines
 
 Weather if you are a first time hacker or a veteran, we encourage you to review this guideline. It will give you a great perspective for getting the most out of your hackathon in HackUPC!
 
@@ -15,7 +15,7 @@ If you have some feedback about it, either write to [jorge@ferreiro.me](jorge@fe
 
 ## The mindset: What do we expect from you in this hackathon?
 
-We expect you to have FUN, LEARN something new and to respect the rest of the hackers using our [Code of Conduct](https://hackupc.com/code_conduct). That's all, we don't have any other expectations, each of you will have different goals during the weekend, and we love that! 😍
+We expect you to `have FUN`, `LEARN` something new and to `respect the rest of the hackers` using our [Code of Conduct](https://hackupc.com/code_conduct). That's all, we don't have any other expectations, each of you will have different goals during the weekend, and we love that! 😍
 
 Winning is hard, and it should not be your first focus because you will put so much pressure on yourself and your team, that it's not gonna be fun! Instead, see this hackathon as a great learning opportunity and focus on the process of building some cool rather than the prizes. HackUPC offers you an incredible opportunity for making new friends, working with other folks that can teach you things, and build a project you can brag about or use for applying to tech companies.
 
