@@ -1,6 +1,6 @@
 # 🐝 HackUPC: Getting Started Guidelines
 
-Weather if you are a first time hacker or a veteran, we encourage you to review this guideline. It will give you a great perspective for getting the most out of your hackathon in HackUPC!
+Whether if you are a first time hacker or a veteran, we encourage you to review this guideline. It will give you a great perspective for getting the most out of your hackathon in HackUPC!
 
 if you wanna help to extend and improve this guide, [create a pull request](https://github.com/ferreiro/hackupc-getting-started/pulls).
 
